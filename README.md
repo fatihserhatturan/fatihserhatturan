@@ -10,11 +10,9 @@
 
 ### 💫 About Me
 - 🎓 Computer Engineering student at Kocaeli University (2021-2025)
-- 💼 Software Development Intern at Dogus Teknoloji
-- 🏆 2nd place winner in an internal generative AI competition
+- 💼 Software Developer at Dogus Teknoloji
 - 🔭 Experienced in microservices architecture and containerization
 - 🌱 Currently working with AI/ML and OpenAI models for smart document automation
-- ⚡ Fun fact: I've built systems for university hospitals and corporate applications
 
 ### 📬 Connect With Me
 <div align="left">
