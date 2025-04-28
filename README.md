@@ -1,17 +1,188 @@
-<h1 align="center">Hi 👋, I'm Fatih Serhat Turan</h1>
-<h3 align="center">Computer Engineering Student At Kocaeli University</h3>
+# <div align="center">👨‍💻 Fatih Serhat Turan</div>
 
-- 📫 How to reach me **fatihserhatturan@gmail.com**
-- Go to website : https://fatihserhatturan.vercel.app/
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;.NET+Core+%26+C%23+Specialist;Microservices+Architect" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatih-serhat-turan-4b3bb1146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatih-serhat-turan-4b3bb1146/" height="30" width="40" /></a>
-</p>
+## <div align="center">Building scalable web applications with clean architecture 🚀</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxdHVrbWZhdGQxcXYxaWluNW5penE3aWI5anVmcnhjejZua3Z3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihserhatturan&show_icons=true&locale=en&layout=compact" alt="fatihserhatturan" /></p>
+### 💫 About Me
+- 🎓 Computer Engineering student at Kocaeli University (2021-2025)
+- 💼 Software Development Intern at Dogus Teknoloji
+- 🏆 2nd place winner in an internal generative AI competition
+- 🔭 Experienced in microservices architecture and containerization
+- 🌱 Currently working with AI/ML and OpenAI models for smart document automation
+- ⚡ Fun fact: I've built systems for university hospitals and corporate applications
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihserhatturan&" alt="fatihserhatturan" /></p>
+### 📬 Connect With Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/fatih-serhat-turan-4b3bb1146/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fatihserhatturan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://medium.com/@fatihserhatturan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://fatihserhatturan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+### 🚀 Key Projects
+
+<details>
+  <summary><b>🏥 Patient Tracking System</b></summary>
+  <br/>
+  <p>
+    Developed a comprehensive patient tracking system for Kocaeli University Hospital using .NET Core MVC. The system enhanced patient management efficiency and improved healthcare service delivery.
+    <br/><br/>
+    <b>Technologies:</b> .NET Core MVC, C#, MSSQL, Clean Architecture
+  </p>
+</details>
+
+<details>
+  <summary><b>🎓 Graduate Information System</b></summary>
+  <br/>
+  <p>
+    Implemented a graduate information system for Kocaeli University using .NET Core, streamlining alumni data management and improving institutional record-keeping.
+    <br/><br/>
+    <b>Technologies:</b> .NET Core, C#, MSSQL, MongoDB
+  </p>
+</details>
+
+<details>
+  <summary><b>🖼️ Microservices Image Optimization Tool</b></summary>
+  <br/>
+  <p>
+    Built an online image optimization tool using microservices architecture with Go and Node.js. The system features separate containerized services for upload, processing, and analytics, communicating via gRPC.
+    <br/><br/>
+    <b>Technologies:</b> Go, Node.js, Docker, Kubernetes, Redis, PostgreSQL, gRPC
+  </p>
+</details>
+
+<details>
+  <summary><b>📄 Smart Document Automation Tool</b></summary>
+  <br/>
+  <p>
+    Created a smart document tool that automates document requirements in business processes using AI/ML technologies. This project won 2nd place in an internal generative AI competition.
+    <br/><br/>
+    <b>Technologies:</b> OpenAI models, .NET Core, Azure
+  </p>
+</details>
+
+<details>
+  <summary><b>🏨 Marmarakaf Reservation System</b></summary>
+  <br/>
+  <p>
+    Designed and implemented a reservation system for Marmarakaf using .NET Core MVC, improving booking efficiency and user experience.
+    <br/><br/>
+    <b>Technologies:</b> .NET Core MVC, C#, Vue.js
+  </p>
+</details>
+
+### 🛠️ Tech Stack
+
+<details>
+  <summary><b>💻 Languages</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🧰 Frameworks & Libraries</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+    <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🗄️ Databases & Storage</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🚢 DevOps & CI/CD</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </p>
+</details>
+
+<details>
+  <summary><b>☁️ Cloud & Services</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🧠 AI & ML</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </p>
+</details>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihserhatturan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="fatihserhatturan" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihserhatturan&theme=tokyonight&hide_border=true" alt="fatihserhatturan" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fatihserhatturan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="fatihserhatturan" />
+</div>
+
+### 📝 Featured Articles
+<div align="center">
+  <a href="https://medium.com/@fatihserhatturan">
+    <img src="https://img.shields.io/badge/Check_out_my_Medium_articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatihserhatturan&label=Profile%20views&color=0e75b6&style=flat" alt="fatihserhatturan" />
+  <br/>
+  <img src="https://img.shields.io/github/followers/fatihserhatturan?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+<div align="center">
+  
+  ### "Clean code always looks like it was written by someone who cares."
+
+</div>
