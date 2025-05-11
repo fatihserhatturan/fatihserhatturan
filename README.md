@@ -178,9 +178,3 @@
   <br/>
   <img src="https://img.shields.io/github/followers/fatihserhatturan?label=Followers&style=social" alt="GitHub followers" />
 </div>
-
-<div align="center">
-  
-  ### "Clean code always looks like it was written by someone who cares."
-
-</div>
