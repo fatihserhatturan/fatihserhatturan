@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;.NET+Core+%26+C%23+Specialist;Microservices+Architect" alt="Typing SVG" />
 </div>
 
-## <div align="center">Building scalable web applications with clean architecture 🚀</div>
-
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxdHVrbWZhdGQxcXYxaWluNW5penE3aWI5anVmcnhjejZua3Z3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💫 About Me
