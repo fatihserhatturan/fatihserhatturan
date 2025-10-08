@@ -11,7 +11,6 @@
 ### 💫 About Me
 - 🎓 Computer Engineering student at Kocaeli University (2021-2025)
 - 💼 Software Developer at Dogus Teknoloji
-- 🔭 Experienced in microservices architecture and containerization
 - 🌱 Currently working with AI/ML and OpenAI models for smart document automation
 
 ### 📬 Connect With Me
@@ -29,58 +28,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
   </a>
 </div>
-
-### 🚀 Key Projects
-
-<details>
-  <summary><b>🏥 Patient Tracking System</b></summary>
-  <br/>
-  <p>
-    Developed a comprehensive patient tracking system for Kocaeli University Hospital using .NET Core MVC. The system enhanced patient management efficiency and improved healthcare service delivery.
-    <br/><br/>
-    <b>Technologies:</b> .NET Core MVC, C#, MSSQL, Clean Architecture
-  </p>
-</details>
-
-<details>
-  <summary><b>🎓 Graduate Information System</b></summary>
-  <br/>
-  <p>
-    Implemented a graduate information system for Kocaeli University using .NET Core, streamlining alumni data management and improving institutional record-keeping.
-    <br/><br/>
-    <b>Technologies:</b> .NET Core, C#, MSSQL, MongoDB
-  </p>
-</details>
-
-<details>
-  <summary><b>🖼️ Microservices Image Optimization Tool</b></summary>
-  <br/>
-  <p>
-    Built an online image optimization tool using microservices architecture with Go and Node.js. The system features separate containerized services for upload, processing, and analytics, communicating via gRPC.
-    <br/><br/>
-    <b>Technologies:</b> Go, Node.js, Docker, Kubernetes, Redis, PostgreSQL, gRPC
-  </p>
-</details>
-
-<details>
-  <summary><b>📄 Smart Document Automation Tool</b></summary>
-  <br/>
-  <p>
-    Created a smart document tool that automates document requirements in business processes using AI/ML technologies. This project won 2nd place in an internal generative AI competition.
-    <br/><br/>
-    <b>Technologies:</b> OpenAI models, .NET Core, Azure
-  </p>
-</details>
-
-<details>
-  <summary><b>🏨 Marmarakaf Reservation System</b></summary>
-  <br/>
-  <p>
-    Designed and implemented a reservation system for Marmarakaf using .NET Core MVC, improving booking efficiency and user experience.
-    <br/><br/>
-    <b>Technologies:</b> .NET Core MVC, C#, Vue.js
-  </p>
-</details>
 
 ### 🛠️ Tech Stack
 
