@@ -86,13 +86,7 @@
   </p>
 </details>
 
-<details>
-  <summary><b>🧠 AI & ML</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  </p>
-</details>
+
 
 ### 📊 GitHub Stats
 
