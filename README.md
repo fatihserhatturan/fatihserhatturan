@@ -7,9 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxdHVrbWZhdGQxcXYxaWluNW5penE3aWI5anVmcnhjejZua3Z3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 💫 About Me
-- 🎓 Computer Engineering student at Kocaeli University (2021-2025)
-- 💼 Software Developer at Dogus Teknoloji
-- 🌱 Currently working with AI/ML and OpenAI models for smart document automation
+- 🎓 B.Sc. in Computer Engineering, Kocaeli University (2021–2025)
 
 ### 📬 Connect With Me
 <div align="left">
