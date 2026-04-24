@@ -4,10 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&height=32&lines=Software+Engineer" />
-</div>
-
 <br/>
 
 <div align="center">
