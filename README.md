@@ -11,14 +11,6 @@ Software Engineer
 
 <!-- Buraya kendini tanıtan kısa bir metin yaz -->
 
----
-
-### İstatistikler
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatihserhatturan&theme=tokyonight&hide_border=true)
-
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=fatihserhatturan&theme=tokyo-night&hide_border=true&area=true)
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=fatihserhatturan&style=flat-square&color=7C3AED&label=profile+views)
