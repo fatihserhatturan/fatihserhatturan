@@ -1,9 +1,7 @@
 # Fatih Serhat Turan
 
-Software engineer at [DGPays](https://github.com/dgpays), based in Turkey.
-
-I build open-source tools on the side, mostly developer tooling and apps that run entirely on your
-own machine: a code graph for AI agents, an audio analysis app for rap and an icon library for React.
+Software engineer building open-source tools, mostly developer tooling and apps that run entirely
+on your own machine: a code graph for AI agents, an audio analysis app for rap and an icon library for React.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-serhat-turan-4b3bb1146/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fatihserhatturan@gmail.com)
@@ -33,10 +31,3 @@ to agents over MCP. One runtime dependency.
 support.
 
 `React` `TypeScript` `SVG`
-
-## Tech
-
-- **Languages:** TypeScript, C#, Go, Python, Swift
-- **Backend:** .NET, Node.js, microservices, Redis, Elasticsearch
-- **Frontend:** React, Vue, Electron
-- **Audio & ML:** Whisper, Demucs, librosa, MLX
